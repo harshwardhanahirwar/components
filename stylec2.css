@@ -1,0 +1,53 @@
+ * {
+    box-sizing: border-box;
+} 
+header h1{
+    text-align: center;
+}
+header p{
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    flex-basis: auto;
+    justify-content: center;
+}
+.happystudent{
+    background-color: antiquewhite;
+    margin: 10px;
+    padding: 10px;
+    align-content: center;
+    border-radius: 10px;
+    width: 180px;
+    
+}
+.mock{
+    background-color:beige;
+    padding-top: 20px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    width: 180px;
+    padding:50px ;
+}
+.lectures{
+    background-color:aliceblue;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    width: 180px;
+    padding:50px ;
+}
+.pepars{
+    background-color: lightpink;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    width: 180px;
+    padding:50px ;
+}
